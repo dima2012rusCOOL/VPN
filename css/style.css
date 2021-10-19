@@ -1,0 +1,12 @@
+body{
+	background: #FBEBE8 ;
+}
+.slider {
+	width: 70%;
+	margin: 100px;
+	color: black;
+}
+.slick-prev:before,
+.slick-next:before {
+	color: black;
+}
